@@ -1,4 +1,4 @@
-##Preparations
+## to run locally (on linux)
 ### run zookeeper with docker
 `docker run --name zookeeper -p 2181:2181  zookeeper`
 
